@@ -1,4 +1,4 @@
-module golang.org/x/crypto
+module golang.org/haasal/crypto
 
 go 1.17
 
